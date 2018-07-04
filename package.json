@@ -1,0 +1,24 @@
+{
+  "name": "serverless-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmoDinho/serverless-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmoDinho/serverless-demo/issues"
+  },
+  "homepage": "https://github.com/AmoDinho/serverless-demo#readme",
+  "devDependencies": {
+    "express": "^4.16.3",
+    "serverless-http": "^1.6.0"
+  }
+}
