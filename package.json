@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/AmoDinho/serverless-demo#readme",
   "devDependencies": {
-    "express": "^4.16.3",
+    "express": "^4.17.1",
     "serverless-dynamodb-local": "^0.2.30",
     "serverless-http": "^1.6.0"
   },
