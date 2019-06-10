@@ -23,7 +23,7 @@
     "serverless-http": "^1.6.0"
   },
   "dependencies": {
-    "aws-sdk": "^2.272.1",
+    "aws-sdk": "^2.471.0",
     "body-parser": "^1.18.3"
   }
 }
